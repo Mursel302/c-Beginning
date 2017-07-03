@@ -21,7 +21,7 @@ namespace bolme_Operatorsuz
             int netice=0;
             int qaliq=bolunen;
 
-            while(qaliq>bolen)
+            while(qaliq>=bolen)
             {
                 qaliq = qaliq - bolen;
                 netice++;
