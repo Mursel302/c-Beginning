@@ -1,0 +1,6 @@
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\bin\Debug\bolme Operatorsuz.exe.config
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\bin\Debug\bolme Operatorsuz.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\bin\Debug\bolme Operatorsuz.pdb
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\obj\Debug\bolme Operatorsuz.csprojResolveAssemblyReference.cache
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\obj\Debug\bolme Operatorsuz.exe
+c:\users\mirmursal\documents\visual studio 2017\Projects\bolme Operatorsuz\bolme Operatorsuz\obj\Debug\bolme Operatorsuz.pdb
